@@ -1,18 +1,18 @@
 /* =========================================
-   1. VARIÁVEIS E RESET (A Base de Tudo)
+   1. VARIÁVEIS E RESET 
 ========================================= */
 :root {
   --fundo: #f3f6f6;
   --texto: #111;
-  --verde: #047d52;  /* Cor principal */
-  --dourado: #F0B429; /* Cor destaque */
-  --azul: #338db7;   /* Cor secundária */
+  --verde: #047d52;  
+  --dourado: #F0B429; 
+  --azul: #338db7;   
 }
 
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box; /* Garante que padding não aumente o tamanho da caixa */
+  box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 /* =========================================
-   2. HEADER (Menu Superior)
+   HEADER 
 ========================================= */
 .header {
   display: flex;
@@ -114,7 +114,7 @@ body {
 }
 
 /* =========================================
-   3. HERO (Banner Principal)
+   HERO 
 ========================================= */
 .hero {
   position: relative;
@@ -160,7 +160,7 @@ body {
 }
 
 /* =========================================
-   4. CATÁLOGO E CARROSSEL
+   CATÁLOGO E CARROSSEL
 ========================================= */
 .catalog {
   padding: 100px 60px;
@@ -229,7 +229,7 @@ body {
 .scroll-btn.right { right: -20px; }
 
 /* =========================================
-   5. POPUP GERAL E DETALHES DO FILME
+   POPUP GERAL E DETALHES DO FILME
 ========================================= */
 .popup {
   display: none;
@@ -342,7 +342,7 @@ body {
 }
 
 /* =========================================
-   6. MODAIS DE LOGIN/PERFIL
+   LOGIN/PERFIL   
 ========================================= */
 
 /* Fundo Escuro atrás da caixa branca */
@@ -357,7 +357,6 @@ body {
   backdrop-filter: blur(5px);
 }
 
-/* A Caixa Branca em si */
 .modal .popup-box {
   background: #e7e4e4;
   color: #1c2b3f;
@@ -428,7 +427,7 @@ body {
 .form-active { display: block; }
 
 /* =========================================
-   7. ESTILO DO PERFIL E ESTATÍSTICAS
+   ESTILO DO PERFIL 
 ========================================= */
 .perfil-stats {
   display: flex;
@@ -479,7 +478,7 @@ body {
 }
 
 /* =========================================
-   8. ESTILO DAS LISTAS COM FOTO
+   ESTILO DAS LISTAS COM FOTO
 ========================================= */
 .item-lista {
   display: flex;
@@ -956,6 +955,9 @@ body {
   border-radius: 8px;
   margin: 10px 0;
 }
+/* =========================================
+   Footer
+========================================= */
 
 .footer {
   background: #1e2851;
@@ -1005,3 +1007,4 @@ body {
   font-size: 0.7em;
   color: #d4d1d1;
 }
+
