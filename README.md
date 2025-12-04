@@ -2,7 +2,7 @@
 
 Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Web, com o objetivo de criar uma plataforma digital voltada exclusivamente para a divulgação, organização e valorização do cinema brasileiro, reunindo filmes, séries, animações, novelas e documentários nacionais em um único ambiente interativo.
 
-Link pro Site: [https://karineads.github.io/Projeto_de_web_Kinoteca/](https://karineads.github.io/Projeto_de_web_Kinoteca/)
+Link pro Site: [[https://karineads.github.io/Projeto_de_web_Kinoteca/](https://karineads.github.io/Projeto_de_web_Kinoteca/)]
 
 ---
 
