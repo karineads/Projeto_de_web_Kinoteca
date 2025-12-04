@@ -193,7 +193,7 @@ Instituição: CEUB
 
 Ano: 2025  
 
-Link pro Site: https://karineads.github.io/Projeto_de_web_Kinoteca/
+Link pro Site: [https://karineads.github.io/Projeto_de_web_Kinoteca/](https://karineads.github.io/Projeto_de_web_Kinoteca/)
 
 ---
 
